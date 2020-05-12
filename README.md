@@ -3,7 +3,9 @@ In this project, we try to achieve simple linear regression using 3 different me
   2. Coding the Math from the scratch
   3. Using deep learning model without hidden layer
   
-1. Using sklearn:
+
+Using sklearn:
+
     LinearRegression class in sklearn was used. 
 
 
@@ -11,14 +13,15 @@ In this project, we try to achieve simple linear regression using 3 different me
 ![sklearn test image](/images/sklearn_test.png)
 
 
-2. Coding from the scratch:
+Coding from the scratch:
+
   The Math was coded from the scratch.
   
 ![scratch train image](/images/scratch_train.png)
 ![scratch test image](/images/scratch_test.png)
 
 
-3. Using a ANN (keras):
+Using a ANN (keras):
     
     Line fits better as the epochs are increased till 200 epochs (approx). The loss seems to be converging at 0.48
     
